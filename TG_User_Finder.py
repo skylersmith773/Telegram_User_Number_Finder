@@ -1,6 +1,4 @@
 
-#!/usr/local/bin/python3
-# coded by:swagkarna
 from telethon import TelegramClient, events, sync
 from telethon.tl.types import InputPhoneContact
 from telethon import functions, types
